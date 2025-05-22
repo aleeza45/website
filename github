@@ -1,0 +1,4 @@
+cd "C:\Users\ayesh\OneDrive\Desktop\ENTSOC"
+git init
+git add .
+git commit -m "Initial commit"
